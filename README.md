@@ -18,7 +18,7 @@ echo "le mostrare el siguiente texto: $palabra";
 echo "<br><br>";
 #variable boleana
 $boleana = true;
-echo "esta es una variable boleana: $boleana";
+echo "naci en bogota?: $boleana";
 
 echo "<br><br>";
 #variable arreglo
